@@ -19,17 +19,12 @@ git clone https://github.com/nonadiaputri/mifx-api-automation.git
 
 
 ## 📄 Struktur Folder
-
 /src/test/java
 -> com/mifx/api/test
 /test-output
 
 
-
-
-
-
-How to make API automation  using testng and rest assured
+## 📄 Create Project 
 1. Open eclipse - Click File - New - Maven Project
 2. Set the workspace location (if needed) and checked click simple project then click next
 3. Fill the groupId, ArtifactId, and the Name, than click finish
