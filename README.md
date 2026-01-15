@@ -1,3 +1,34 @@
+# MFIX API Automation
+
+## 📌 Deskripsi
+Automation framework untuk API testing MFIX menggunakan **Java, Maven, RestAssured & TestNG**.
+
+## ⚙️ Tools & Dependencies
+- Java 11+
+- Maven
+- RestAssured
+- TestNG
+- JSON Schema Validator
+
+## 🚀 Setup Project
+1. Clone repo
+git clone https://github.com/nonadiaputri/mifx-api-automation.git
+
+2. Buka di IDE (Eclipse/IntelliJ)
+3. Run: mvn clean test
+
+
+## 📄 Struktur Folder
+
+/src/test/java
+-> com/mifx/api/test
+/test-output
+
+
+
+
+
+
 How to make API automation  using testng and rest assured
 1. Open eclipse - Click File - New - Maven Project
 2. Set the workspace location (if needed) and checked click simple project then click next
