@@ -20,8 +20,8 @@ git clone https://github.com/nonadiaputri/mifx-api-automation.git
 
 ## 📄 Struktur Folder
 /src/test/java
--> com/mifx/api/test
-/test-output
+'-> com/mifx/api/test
+'/test-output
 
 
 ## 📄 Create Project 
